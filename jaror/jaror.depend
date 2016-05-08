@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1462705064 source:c:\users\sdaniel\desktop\2013okt\jaror\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	<stdlib.h>
+
